@@ -1,0 +1,18 @@
+{
+	"purchases": {
+		"remoteEntry": "http://localhost:4201/remoteEntry.js",
+
+		"exposedModule": "./Module",
+		"displayName": "Purchases",
+		"routePath": "purchases",
+		"ngModuleName": "PurchasesModule"
+	},
+	"stores": {
+		"remoteEntry": "http://localhost:4202/remoteEntry.js",
+
+		"exposedModule": "./Module",
+		"displayName": "Stores",
+		"routePath": "stores",
+		"ngModuleName": "StoresModule"
+	}
+}
