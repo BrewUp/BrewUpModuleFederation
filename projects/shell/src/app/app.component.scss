@@ -1,0 +1,15 @@
+.app-container {
+  display: flex;
+}
+ul {
+  display: flex;
+  position: unset;
+  flex-direction: column;
+  width: 10rem;
+  height: 100vh;
+  align-items: center;
+}
+
+li {
+  margin: 0 0 1rem 0;
+}
